@@ -1,0 +1,22 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+    background-color: #f4f4f4;
+  }
+  
+  h1 {
+    color: #bd9ae6;
+  }
+  
+  #response {
+    margin-top: 20px;
+    font-size: 20px;
+  }
+  
+  button {
+    background-color: #bd9ae6;
+    color: #130101;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+  }
